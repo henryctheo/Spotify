@@ -1,8 +1,8 @@
 import spotipy.util as util
 
 username = 'henryctheo'
-client_id ='8a22b2b52abc44a3bb7349ed82328eb9'
-client_secret = '48a2a3cb77b24d268622d9d56a4b8b23'
+client_id ='your-client-id'
+client_secret = 'your-client-secret'
 redirect_uri = 'http://localhost:7777/callback'
 scope = 'user-read-recently-played'
 
